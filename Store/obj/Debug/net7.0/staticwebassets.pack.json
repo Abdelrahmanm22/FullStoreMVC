@@ -5,6 +5,98 @@
       "PackagePath": "staticwebassets\\Store.cpru6uqhyu.bundle.scp.css"
     },
     {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\air_conditioner.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\air_conditioner.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\airpods_pro.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\airpods_pro.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\blender.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\blender.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\bosch_dishwasher.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\bosch_dishwasher.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\camera.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\camera.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\charger.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\charger.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\dyson_dryer.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\dyson_dryer.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\fitbit_watch.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\fitbit_watch.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\football.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\football.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\galaxy_s23.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\galaxy_s23.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\gaming_chair.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\gaming_chair.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\iphone_15.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\iphone_15.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\kettle.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\kettle.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\lg_oled.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\lg_oled.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\microwave.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\microwave.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\nike_shoes.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\nike_shoes.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\razer_mouse.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\razer_mouse.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\refrigerator.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\refrigerator.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\speaker.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\speaker.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\thinkpad_x1.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\thinkpad_x1.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\treadmill.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\treadmill.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\vacuum.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\vacuum.jpg"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\yoga_mat.jpg",
+      "PackagePath": "staticwebassets\\Files\\Products\\yoga_mat.jpg"
+    },
+    {
       "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

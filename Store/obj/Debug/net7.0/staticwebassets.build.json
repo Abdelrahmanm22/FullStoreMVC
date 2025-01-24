@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BjgLkRMl344BbKkx62qia/uAPDYvTc7wSvI8kX21EZs=",
+  "Hash": "PqiujptgpUmcXIV4ITjPOJOfH9TUU3Sa5e1wTXbh4jY=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -99,6 +99,489 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\air_conditioner.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/air_conditioner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ol96c0oxfv",
+      "Integrity": "5D2NZydMsarXx/s9luuNOplQbqP8UC7vrtoljrTuWx8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\air_conditioner.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\airpods_pro.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/airpods_pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5pgj4a97bq",
+      "Integrity": "t+jCP4i0o0uTEyfFQlTnBTxvWtP9W5EiT7PxfsQ1RuY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\airpods_pro.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\blender.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/blender#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bqkemaplh8",
+      "Integrity": "c259TuhqlZ1/ARPdFpeqb6Rn/5QpxvHkfTJqRWcofyA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\blender.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\bosch_dishwasher.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/bosch_dishwasher#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4v5rmn51j",
+      "Integrity": "MxBvSFj8wmSy2KbOeN66VSPg+psCrLs+CfyS5VoAyQA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\bosch_dishwasher.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\camera.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/camera#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5zpxymnk8y",
+      "Integrity": "wevwWYgP9fQnhZMlzOYbpQmhFIVuwoV7fz8H2GgfXuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\camera.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\charger.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/charger#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yhqp0bsltf",
+      "Integrity": "Zl4hyypTO7hEHTnsIvBT3h6QBG9vedDDnNjd/B7bAdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\charger.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\dyson_dryer.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/dyson_dryer#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27lvesqjti",
+      "Integrity": "DptikYM6kspnrF5l6dcgNElL3oLP75FtsJq9vXn1UbM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\dyson_dryer.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\fitbit_watch.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/fitbit_watch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vhtty39xw3",
+      "Integrity": "baf53S3LDWeHt4WW1keq6nxH2KO9jivVSE6OeMan+VU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\fitbit_watch.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\football.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/football#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h6b57tgahe",
+      "Integrity": "J72bt6Y359q5s5lS20n+cAL2Y68bDLAhIS6PLYsJSas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\football.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\galaxy_s23.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/galaxy_s23#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "94dty9b4k4",
+      "Integrity": "V0IhWw8Twb60S6+eH9srtJezxfRWlMCoYvIP8fYdZ4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\galaxy_s23.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\gaming_chair.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/gaming_chair#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r602civlw7",
+      "Integrity": "c7GOA5gWPsYsd/cAG9lPHd2fk9/hnmcxxni/qhdZamQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\gaming_chair.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\iphone_15.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/iphone_15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ijmkgjh0nu",
+      "Integrity": "4gSelj0BpFKdZIHzr9/XJ6uTLIe+IMGnxjHnyxVUYos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\iphone_15.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\kettle.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/kettle#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8q2qarv4dq",
+      "Integrity": "UBbzypIlfQQ0L8A9QDspKNdAiyVGahg/FDCWx/BGxeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\kettle.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\lg_oled.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/lg_oled#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ez4ckyx9av",
+      "Integrity": "OlDqSULO6FVCLLhdIV52v7kqC8I49VGJ1vBNZI1XIpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\lg_oled.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\microwave.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/microwave#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ontjq1ohbg",
+      "Integrity": "5NpZD14hBoALrnGULTk01kNFhRstV1hac8UIX+DnBCs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\microwave.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\nike_shoes.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/nike_shoes#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rya2d1cmng",
+      "Integrity": "/UpBw4V/EH++cBQCfkECWm4Te0Lg28ZCIULI1QH26Io=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\nike_shoes.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\razer_mouse.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/razer_mouse#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sh3qj942z6",
+      "Integrity": "MAtNpP4qaDRBQ/Rv63YP0Sx3DPYtgkabtNCm0/IPbps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\razer_mouse.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\refrigerator.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/refrigerator#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8rbj15r1a",
+      "Integrity": "nwXPqd8gu4RT/2lfnMDa1X496HLgKumT7BJVOPqMl+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\refrigerator.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\speaker.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/speaker#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wfc5ihkfxz",
+      "Integrity": "xPvp5TKnykWB+Bt6rvHAqIOfiUcBMGMXIrPJUnuhRgY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\speaker.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\thinkpad_x1.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/thinkpad_x1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ojlla0huay",
+      "Integrity": "rMVyMsXxl0ben5zTJ69xWvJ2lfrafgLYF+1FDms4qBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\thinkpad_x1.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\treadmill.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/treadmill#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7yi3he3akk",
+      "Integrity": "r9uKRt93ik0YWxSzOLkWwlPfdW7XPlzINZlitr9IsI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\treadmill.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\vacuum.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/vacuum#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81hu9c4y2c",
+      "Integrity": "RDUBx1nrCNOYMf4rmOf47owm5awpdVKqrfr8pSzl+f4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\vacuum.jpg"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\yoga_mat.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Products/yoga_mat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "06g64q9ic5",
+      "Integrity": "WNN3OgCS2QRRk8oC8n8TnZQ6ks/TSS8pSh/GsN04zmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Products\\yoga_mat.jpg"
     },
     {
       "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\js\\site.js",
@@ -1481,6 +1964,1892 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/air_conditioner.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\air_conditioner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5D2NZydMsarXx/s9luuNOplQbqP8UC7vrtoljrTuWx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5D2NZydMsarXx/s9luuNOplQbqP8UC7vrtoljrTuWx8="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/air_conditioner.ol96c0oxfv.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\air_conditioner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5D2NZydMsarXx/s9luuNOplQbqP8UC7vrtoljrTuWx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ol96c0oxfv"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/air_conditioner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5D2NZydMsarXx/s9luuNOplQbqP8UC7vrtoljrTuWx8="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/airpods_pro.5pgj4a97bq.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\airpods_pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t+jCP4i0o0uTEyfFQlTnBTxvWtP9W5EiT7PxfsQ1RuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pgj4a97bq"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/airpods_pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t+jCP4i0o0uTEyfFQlTnBTxvWtP9W5EiT7PxfsQ1RuY="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/airpods_pro.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\airpods_pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t+jCP4i0o0uTEyfFQlTnBTxvWtP9W5EiT7PxfsQ1RuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t+jCP4i0o0uTEyfFQlTnBTxvWtP9W5EiT7PxfsQ1RuY="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/blender.bqkemaplh8.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\blender.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c259TuhqlZ1/ARPdFpeqb6Rn/5QpxvHkfTJqRWcofyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqkemaplh8"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/blender.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c259TuhqlZ1/ARPdFpeqb6Rn/5QpxvHkfTJqRWcofyA="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/blender.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\blender.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c259TuhqlZ1/ARPdFpeqb6Rn/5QpxvHkfTJqRWcofyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c259TuhqlZ1/ARPdFpeqb6Rn/5QpxvHkfTJqRWcofyA="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/bosch_dishwasher.d4v5rmn51j.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\bosch_dishwasher.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxBvSFj8wmSy2KbOeN66VSPg+psCrLs+CfyS5VoAyQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:55:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4v5rmn51j"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/bosch_dishwasher.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxBvSFj8wmSy2KbOeN66VSPg+psCrLs+CfyS5VoAyQA="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/bosch_dishwasher.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\bosch_dishwasher.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxBvSFj8wmSy2KbOeN66VSPg+psCrLs+CfyS5VoAyQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:55:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxBvSFj8wmSy2KbOeN66VSPg+psCrLs+CfyS5VoAyQA="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/camera.5zpxymnk8y.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\camera.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wevwWYgP9fQnhZMlzOYbpQmhFIVuwoV7fz8H2GgfXuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:59:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5zpxymnk8y"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/camera.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wevwWYgP9fQnhZMlzOYbpQmhFIVuwoV7fz8H2GgfXuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/camera.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\camera.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wevwWYgP9fQnhZMlzOYbpQmhFIVuwoV7fz8H2GgfXuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:59:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wevwWYgP9fQnhZMlzOYbpQmhFIVuwoV7fz8H2GgfXuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/charger.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\charger.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zl4hyypTO7hEHTnsIvBT3h6QBG9vedDDnNjd/B7bAdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zl4hyypTO7hEHTnsIvBT3h6QBG9vedDDnNjd/B7bAdE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/charger.yhqp0bsltf.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\charger.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zl4hyypTO7hEHTnsIvBT3h6QBG9vedDDnNjd/B7bAdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yhqp0bsltf"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/charger.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zl4hyypTO7hEHTnsIvBT3h6QBG9vedDDnNjd/B7bAdE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/dyson_dryer.27lvesqjti.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\dyson_dryer.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DptikYM6kspnrF5l6dcgNElL3oLP75FtsJq9vXn1UbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27lvesqjti"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/dyson_dryer.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DptikYM6kspnrF5l6dcgNElL3oLP75FtsJq9vXn1UbM="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/dyson_dryer.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\dyson_dryer.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DptikYM6kspnrF5l6dcgNElL3oLP75FtsJq9vXn1UbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DptikYM6kspnrF5l6dcgNElL3oLP75FtsJq9vXn1UbM="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/fitbit_watch.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\fitbit_watch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"baf53S3LDWeHt4WW1keq6nxH2KO9jivVSE6OeMan+VU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:56:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-baf53S3LDWeHt4WW1keq6nxH2KO9jivVSE6OeMan+VU="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/fitbit_watch.vhtty39xw3.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\fitbit_watch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"baf53S3LDWeHt4WW1keq6nxH2KO9jivVSE6OeMan+VU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:56:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vhtty39xw3"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/fitbit_watch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-baf53S3LDWeHt4WW1keq6nxH2KO9jivVSE6OeMan+VU="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/football.h6b57tgahe.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J72bt6Y359q5s5lS20n+cAL2Y68bDLAhIS6PLYsJSas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h6b57tgahe"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/football.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J72bt6Y359q5s5lS20n+cAL2Y68bDLAhIS6PLYsJSas="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/football.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J72bt6Y359q5s5lS20n+cAL2Y68bDLAhIS6PLYsJSas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J72bt6Y359q5s5lS20n+cAL2Y68bDLAhIS6PLYsJSas="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/galaxy_s23.94dty9b4k4.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\galaxy_s23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V0IhWw8Twb60S6+eH9srtJezxfRWlMCoYvIP8fYdZ4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "94dty9b4k4"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/galaxy_s23.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V0IhWw8Twb60S6+eH9srtJezxfRWlMCoYvIP8fYdZ4o="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/galaxy_s23.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\galaxy_s23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V0IhWw8Twb60S6+eH9srtJezxfRWlMCoYvIP8fYdZ4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V0IhWw8Twb60S6+eH9srtJezxfRWlMCoYvIP8fYdZ4o="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/gaming_chair.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\gaming_chair.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c7GOA5gWPsYsd/cAG9lPHd2fk9/hnmcxxni/qhdZamQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c7GOA5gWPsYsd/cAG9lPHd2fk9/hnmcxxni/qhdZamQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/gaming_chair.r602civlw7.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\gaming_chair.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c7GOA5gWPsYsd/cAG9lPHd2fk9/hnmcxxni/qhdZamQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r602civlw7"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/gaming_chair.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c7GOA5gWPsYsd/cAG9lPHd2fk9/hnmcxxni/qhdZamQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/iphone_15.ijmkgjh0nu.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\iphone_15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gSelj0BpFKdZIHzr9/XJ6uTLIe+IMGnxjHnyxVUYos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:53:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijmkgjh0nu"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/iphone_15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gSelj0BpFKdZIHzr9/XJ6uTLIe+IMGnxjHnyxVUYos="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/iphone_15.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\iphone_15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gSelj0BpFKdZIHzr9/XJ6uTLIe+IMGnxjHnyxVUYos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:53:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gSelj0BpFKdZIHzr9/XJ6uTLIe+IMGnxjHnyxVUYos="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/kettle.8q2qarv4dq.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\kettle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UBbzypIlfQQ0L8A9QDspKNdAiyVGahg/FDCWx/BGxeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:55:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8q2qarv4dq"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/kettle.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UBbzypIlfQQ0L8A9QDspKNdAiyVGahg/FDCWx/BGxeE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/kettle.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\kettle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UBbzypIlfQQ0L8A9QDspKNdAiyVGahg/FDCWx/BGxeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:55:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UBbzypIlfQQ0L8A9QDspKNdAiyVGahg/FDCWx/BGxeE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/lg_oled.ez4ckyx9av.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\lg_oled.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OlDqSULO6FVCLLhdIV52v7kqC8I49VGJ1vBNZI1XIpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ez4ckyx9av"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/lg_oled.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OlDqSULO6FVCLLhdIV52v7kqC8I49VGJ1vBNZI1XIpE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/lg_oled.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\lg_oled.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OlDqSULO6FVCLLhdIV52v7kqC8I49VGJ1vBNZI1XIpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OlDqSULO6FVCLLhdIV52v7kqC8I49VGJ1vBNZI1XIpE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/microwave.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\microwave.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5NpZD14hBoALrnGULTk01kNFhRstV1hac8UIX+DnBCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NpZD14hBoALrnGULTk01kNFhRstV1hac8UIX+DnBCs="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/microwave.ontjq1ohbg.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\microwave.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5NpZD14hBoALrnGULTk01kNFhRstV1hac8UIX+DnBCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ontjq1ohbg"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/microwave.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NpZD14hBoALrnGULTk01kNFhRstV1hac8UIX+DnBCs="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/nike_shoes.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\nike_shoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UpBw4V/EH++cBQCfkECWm4Te0Lg28ZCIULI1QH26Io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UpBw4V/EH++cBQCfkECWm4Te0Lg28ZCIULI1QH26Io="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/nike_shoes.rya2d1cmng.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\nike_shoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UpBw4V/EH++cBQCfkECWm4Te0Lg28ZCIULI1QH26Io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rya2d1cmng"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/nike_shoes.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UpBw4V/EH++cBQCfkECWm4Te0Lg28ZCIULI1QH26Io="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/razer_mouse.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\razer_mouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MAtNpP4qaDRBQ/Rv63YP0Sx3DPYtgkabtNCm0/IPbps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MAtNpP4qaDRBQ/Rv63YP0Sx3DPYtgkabtNCm0/IPbps="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/razer_mouse.sh3qj942z6.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\razer_mouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MAtNpP4qaDRBQ/Rv63YP0Sx3DPYtgkabtNCm0/IPbps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sh3qj942z6"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/razer_mouse.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MAtNpP4qaDRBQ/Rv63YP0Sx3DPYtgkabtNCm0/IPbps="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/refrigerator.f8rbj15r1a.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\refrigerator.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nwXPqd8gu4RT/2lfnMDa1X496HLgKumT7BJVOPqMl+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:54:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8rbj15r1a"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/refrigerator.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nwXPqd8gu4RT/2lfnMDa1X496HLgKumT7BJVOPqMl+I="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/refrigerator.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\refrigerator.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nwXPqd8gu4RT/2lfnMDa1X496HLgKumT7BJVOPqMl+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:54:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nwXPqd8gu4RT/2lfnMDa1X496HLgKumT7BJVOPqMl+I="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/speaker.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\speaker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xPvp5TKnykWB+Bt6rvHAqIOfiUcBMGMXIrPJUnuhRgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xPvp5TKnykWB+Bt6rvHAqIOfiUcBMGMXIrPJUnuhRgY="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/speaker.wfc5ihkfxz.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\speaker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xPvp5TKnykWB+Bt6rvHAqIOfiUcBMGMXIrPJUnuhRgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wfc5ihkfxz"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/speaker.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xPvp5TKnykWB+Bt6rvHAqIOfiUcBMGMXIrPJUnuhRgY="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/thinkpad_x1.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\thinkpad_x1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rMVyMsXxl0ben5zTJ69xWvJ2lfrafgLYF+1FDms4qBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMVyMsXxl0ben5zTJ69xWvJ2lfrafgLYF+1FDms4qBc="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/thinkpad_x1.ojlla0huay.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\thinkpad_x1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rMVyMsXxl0ben5zTJ69xWvJ2lfrafgLYF+1FDms4qBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojlla0huay"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/thinkpad_x1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMVyMsXxl0ben5zTJ69xWvJ2lfrafgLYF+1FDms4qBc="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/treadmill.7yi3he3akk.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\treadmill.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r9uKRt93ik0YWxSzOLkWwlPfdW7XPlzINZlitr9IsI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7yi3he3akk"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/treadmill.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r9uKRt93ik0YWxSzOLkWwlPfdW7XPlzINZlitr9IsI4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/treadmill.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\treadmill.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r9uKRt93ik0YWxSzOLkWwlPfdW7XPlzINZlitr9IsI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r9uKRt93ik0YWxSzOLkWwlPfdW7XPlzINZlitr9IsI4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/vacuum.81hu9c4y2c.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\vacuum.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RDUBx1nrCNOYMf4rmOf47owm5awpdVKqrfr8pSzl+f4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:59:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81hu9c4y2c"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/vacuum.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RDUBx1nrCNOYMf4rmOf47owm5awpdVKqrfr8pSzl+f4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/vacuum.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\vacuum.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RDUBx1nrCNOYMf4rmOf47owm5awpdVKqrfr8pSzl+f4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:59:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RDUBx1nrCNOYMf4rmOf47owm5awpdVKqrfr8pSzl+f4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/yoga_mat.06g64q9ic5.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\yoga_mat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WNN3OgCS2QRRk8oC8n8TnZQ6ks/TSS8pSh/GsN04zmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "06g64q9ic5"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Products/yoga_mat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WNN3OgCS2QRRk8oC8n8TnZQ6ks/TSS8pSh/GsN04zmg="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Products/yoga_mat.jpg",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\yoga_mat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WNN3OgCS2QRRk8oC8n8TnZQ6ks/TSS8pSh/GsN04zmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 23:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WNN3OgCS2QRRk8oC8n8TnZQ6ks/TSS8pSh/GsN04zmg="
         }
       ]
     },

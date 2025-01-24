@@ -21,7 +21,6 @@ namespace Store.Models
 
         public string Description { get; set; } = "";
 
-        [MaxLength(300)]
         public string ImageFileName { get; set; } = "";
         public DateTime CreatedAt { get; set; }
 

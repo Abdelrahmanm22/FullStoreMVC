@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Store.Contexts;
+using Store.MappingProfiles;
+using Store.Models;
 
 namespace Store
 {
@@ -17,6 +19,8 @@ namespace Store
                 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
                 options.UseSqlServer(connectionString);
             });
+
+            builder.Services.AddAutoMapper(m => m.AddProfile(new ProductProfile())); //Transient
 
             var app = builder.Build();
 
