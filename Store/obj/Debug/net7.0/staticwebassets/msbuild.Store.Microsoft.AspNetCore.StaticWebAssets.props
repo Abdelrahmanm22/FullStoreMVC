@@ -36,60 +36,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\233dbe41-d32d-4414-b932-33b9f603a317IphoneXSMax.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Store</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Store</BasePath>
-      <RelativePath>Files/Products/233dbe41-d32d-4414-b932-33b9f603a317IphoneXSMax.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gd7rxa5hlk</Fingerprint>
-      <Integrity>FBfu08GLcGVTcnH+GEjs/TkFNCWyEyKYUyrnEuGx6wM=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\233dbe41-d32d-4414-b932-33b9f603a317IphoneXSMax.jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\2abf5296-da6b-410a-bca2-8e61393681c3useraya.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Store</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Store</BasePath>
-      <RelativePath>Files/Products/2abf5296-da6b-410a-bca2-8e61393681c3useraya.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sukfl97l89</Fingerprint>
-      <Integrity>VMAVw06IVqBL6naSd2zY6CdbkEId7vKoIA/vwElVdLw=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\2abf5296-da6b-410a-bca2-8e61393681c3useraya.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\53b9706e-79b1-407c-9b9a-3132411e68ddIphoneXSMax.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Store</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Store</BasePath>
-      <RelativePath>Files/Products/53b9706e-79b1-407c-9b9a-3132411e68ddIphoneXSMax.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gd7rxa5hlk</Fingerprint>
-      <Integrity>FBfu08GLcGVTcnH+GEjs/TkFNCWyEyKYUyrnEuGx6wM=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\53b9706e-79b1-407c-9b9a-3132411e68ddIphoneXSMax.jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Products\airpods_pro.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Store</SourceId>

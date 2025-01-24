@@ -10,15 +10,31 @@ namespace Store.Controllers
     {
         private readonly AppDbContext dbContext;
         private readonly IMapper _mapper;
+        private readonly int pageSize = 5;
 
         public ProductController(AppDbContext dbContext,IMapper mapper)
         {
             this.dbContext = dbContext;
             _mapper = mapper;
         }
-        public IActionResult Index()
+        public IActionResult Index(int pageIndex)
         {
-            var Products = dbContext.Products.OrderByDescending(p=>p.Id).ToList();
+            IQueryable<Product> query = dbContext.Products;
+            query = query.OrderByDescending(p => p.Id);
+
+            if (pageIndex < 1)
+            {
+                pageIndex = 1;
+            }
+            decimal count = query.Count();
+            int totalPages = (int)Math.Ceiling(count / pageSize);
+            query = query.Skip((pageIndex - 1) * pageSize).Take(pageSize);
+
+
+            var Products = query.ToList();
+
+            ViewData["PageIndex"] = pageIndex;
+            ViewData["TotalPages"] = totalPages;
             return View(Products);
         }
 
