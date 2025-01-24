@@ -7,7 +7,7 @@ namespace Store.MappingProfiles
     {
         public ProductProfile()
         {
-            CreateMap<ProductViewModel, Product>();
+            CreateMap<ProductViewModel, Product>().ReverseMap();
         }
     }
 }

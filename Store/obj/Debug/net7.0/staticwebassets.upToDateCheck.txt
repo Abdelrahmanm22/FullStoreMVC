@@ -1,5 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Files\Products\233dbe41-d32d-4414-b932-33b9f603a317IphoneXSMax.jpeg
+wwwroot\Files\Products\2abf5296-da6b-410a-bca2-8e61393681c3useraya.jpg
+wwwroot\Files\Products\53b9706e-79b1-407c-9b9a-3132411e68ddIphoneXSMax.jpeg
 wwwroot\Files\Products\air_conditioner.jpg
 wwwroot\Files\Products\airpods_pro.jpg
 wwwroot\Files\Products\blender.jpg

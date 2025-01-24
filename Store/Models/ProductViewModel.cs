@@ -23,7 +23,7 @@ namespace Store.Models
         [Required(ErrorMessage = "Product Description is required")]
         public string Description { get; set; } = "";
 
-        public IFormFile Image { get; set; }
+        public IFormFile? Image { get; set; }
         public string? ImageFileName { get; set; }
     }
 }

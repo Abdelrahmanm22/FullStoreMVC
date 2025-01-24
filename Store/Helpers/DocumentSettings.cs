@@ -22,5 +22,17 @@ namespace Store.Helpers
             // 5. Return File Name
             return FileName;
         }
+
+        public static void DeleteFile(string fileName, string folderName)
+        {
+            //1. Get File Path
+            string FilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Files", folderName, fileName);
+            //2. Check if File Exists or not
+            if (File.Exists(FilePath))
+            {
+                // if exists remove it
+                File.Delete(FilePath);
+            }
+        }
     }
 }

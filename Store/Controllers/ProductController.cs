@@ -35,7 +35,6 @@ namespace Store.Controllers
                     productVM.ImageFileName = null;
                 else
                     productVM.ImageFileName = DocumentSettings.UplaodFile(productVM.Image, "Products");
-
                 var MappedProduct = _mapper.Map<ProductViewModel, Product>(productVM);
                 dbContext.Products.Add(MappedProduct);
                 dbContext.SaveChanges();
@@ -43,5 +42,59 @@ namespace Store.Controllers
             }
             return View(productVM);
         }
+        public IActionResult Edit(int? id)
+        {
+            if (id is null) return BadRequest();
+
+            var Employee = dbContext.Products.Find(id);
+
+            if (Employee is null) return NotFound();
+
+            var MappedProduct = _mapper.Map<Product,ProductViewModel>(Employee);
+            return View(MappedProduct);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(ProductViewModel productVM)
+        {
+            if (ModelState.IsValid) {
+                try
+                {
+                    if (productVM.Image is not null)
+                        productVM.ImageFileName = DocumentSettings.UplaodFile(productVM.Image,"Products");
+                    var MappedProduct = _mapper.Map<ProductViewModel,Product>(productVM);
+                    dbContext.Products.Update(MappedProduct);
+                    dbContext.SaveChanges();
+                    return RedirectToAction(nameof(Index));
+                }
+                catch (Exception ex) { 
+                    ModelState.AddModelError(string.Empty, ex.Message);
+                }
+            }
+            return View(productVM);
+        }
+
+        public IActionResult Delete(int? id) {
+            if (id is null) return BadRequest();
+            var Employee = dbContext.Products.Find(id);
+            if (Employee is null) return NotFound();
+
+            try
+            {
+                dbContext.Products.Remove(Employee);
+                int result = dbContext.SaveChanges();
+                if (result > 0 && Employee.ImageFileName is not null)
+                {
+                    DocumentSettings.DeleteFile(Employee.ImageFileName, "Products");
+                }
+                
+            }
+            catch(Exception ex)
+            {
+                ModelState.AddModelError(string.Empty,ex.Message);
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }

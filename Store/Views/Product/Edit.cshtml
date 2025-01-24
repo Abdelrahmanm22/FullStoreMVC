@@ -1,13 +1,15 @@
 ﻿@model ProductViewModel
 @{
-	ViewData["Title"] = "Create";
+	ViewData["Title"] = "Edit";
 }
 
+<div asp-validation-summary="All">
+</div>
 <div class="row">
 	<div class="col-md-8 mx-auto rounded border p-3">
-		<h2 class="text-center mb-5">New Product</h2>
+		<h2 class="text-center mb-5">Edit @Model.Name Product</h2>
 
-		<form asp-action="Create" method="post" enctype="multipart/form-data">
+		<form asp-action="Edit" method="post" enctype="multipart/form-data">
 			<div class="row mb-3">
 				<label class="col-sm-4 col-form-label">Name</label>
 				<div class="col-sm-8">
@@ -52,7 +54,13 @@
 					<span asp-validation-for="Description" class="text-danger"></span>
 				</div>
 			</div>
+
 			<input asp-for="ImageFileName" hidden />
+			<div class="row mb-3">
+				<div class="offset-sm-4 col-sm-8">
+					<img src="~/Files/Products/@Model.ImageFileName" width="150" />
+				</div>
+			</div>
 			<div class="row mb-3">
 				<label class="col-sm-4 col-form-label">Image</label>
 				<div class="col-sm-8">
