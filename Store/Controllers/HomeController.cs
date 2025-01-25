@@ -1,21 +1,25 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Store.Contexts;
 using Store.Models;
+using static System.Collections.Specialized.BitVector32;
 
 namespace Store.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly AppDbContext dbContext;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(AppDbContext dbContext)
         {
-            _logger = logger;
+            this.dbContext = dbContext;
         }
 
         public IActionResult Index()
         {
-            return View();
+            //The newest products section
+            var Products = dbContext.Products.OrderByDescending(p=>p.Id).Take(4).ToList();
+            return View(Products);
         }
 
         public IActionResult Privacy()
