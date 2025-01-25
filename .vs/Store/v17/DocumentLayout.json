@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\models\\storesearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\models\\storesearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreSearchViewModel.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\StoreSearchViewModel.cs",
+              "RelativeDocumentMoniker": "Store\\Models\\StoreSearchViewModel.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\StoreSearchViewModel.cs",
+              "RelativeToolTip": "Store\\Models\\StoreSearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:49:40.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "Store\\Views\\Store\\Index.cshtml",
               "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Store\\Index.cshtml",
               "RelativeToolTip": "Store\\Views\\Store\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCQAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-25T05:24:11.833Z",
               "EditorCaption": ""
@@ -53,7 +70,7 @@
               "RelativeDocumentMoniker": "Store\\Controllers\\StoreController.cs",
               "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\StoreController.cs",
               "RelativeToolTip": "Store\\Controllers\\StoreController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T05:22:50.306Z",
               "EditorCaption": ""
@@ -68,11 +85,12 @@
               "RelativeToolTip": "Store\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T05:10:13.982Z"
+              "WhenOpened": "2025-01-25T05:10:13.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Store\\Views\\Shared\\_Layout.cshtml",
@@ -80,8 +98,7 @@
               "RelativeToolTip": "Store\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T04:46:57.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T04:46:57.287Z"
             }
           ]
         }
