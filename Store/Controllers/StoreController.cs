@@ -80,5 +80,12 @@ namespace Store.Controllers
             return View(storeSearchViewModel);
         }
 
+        public IActionResult Details(int? id)
+        {
+            if (id is null) return BadRequest();
+            var Product = dbContext.Products.Find(id);
+            if (Product is null) return NotFound();
+            return View(Product);
+        }
     }
 }
