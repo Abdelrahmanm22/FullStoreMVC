@@ -6,6 +6,7 @@ using Store.Models;
 
 namespace Store.Controllers
 {
+    [Route("/Admin/[controller]/{action=Index}")]
     public class ProductController : Controller
     {
         private readonly AppDbContext dbContext;

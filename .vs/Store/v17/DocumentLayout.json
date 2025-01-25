@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Store\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:39:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Store\\Views\\_ViewImports.cshtml",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Store\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T03:03:23.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T03:03:23.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductViewModel.cs",
               "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\ProductViewModel.cs",
               "RelativeDocumentMoniker": "Store\\Models\\ProductViewModel.cs",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Store\\Views\\Product\\Edit.cshtml",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Store\\Views\\Product\\Index.cshtml",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DocumentSettings.cs",
               "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Helpers\\DocumentSettings.cs",
               "RelativeDocumentMoniker": "Store\\Helpers\\DocumentSettings.cs",
