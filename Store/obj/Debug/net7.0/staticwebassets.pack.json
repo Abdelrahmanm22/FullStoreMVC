@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Store.cpru6uqhyu.bundle.scp.css"
     },
     {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\hero.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\hero.png"
+    },
+    {
+      "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\icon.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\icon.png"
+    },
+    {
       "Id": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\air_conditioner.jpg",
       "PackagePath": "staticwebassets\\Files\\Products\\air_conditioner.jpg"
     },

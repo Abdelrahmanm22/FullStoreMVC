@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Store\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Store\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:39:19.362Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Store\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T04:46:57.287Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Store\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Store\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T03:03:23.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "Store\\Models\\ProductViewModel.cs",
-              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\ProductViewModel.cs",
-              "RelativeToolTip": "Store\\Models\\ProductViewModel.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T18:48:41.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Store\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Store\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T18:35:30.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Store\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Store\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAgwDYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T18:29:20.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DocumentSettings.cs",
-              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Helpers\\DocumentSettings.cs",
-              "RelativeDocumentMoniker": "Store\\Helpers\\DocumentSettings.cs",
-              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Helpers\\DocumentSettings.cs",
-              "RelativeToolTip": "Store\\Helpers\\DocumentSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T18:52:59.302Z"
             }
           ]
         }

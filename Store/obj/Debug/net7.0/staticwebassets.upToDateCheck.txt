@@ -1,5 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Files\Images\hero.png
+wwwroot\Files\Images\icon.png
 wwwroot\Files\Products\air_conditioner.jpg
 wwwroot\Files\Products\airpods_pro.jpg
 wwwroot\Files\Products\blender.jpg

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PqiujptgpUmcXIV4ITjPOJOfH9TUU3Sa5e1wTXbh4jY=",
+  "Hash": "ye/eKBeesHPd4bRe2xeapeaplrU+Q8NVF75jj8rzG+M=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -99,6 +99,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\hero.png",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Images/hero#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xf48t6q0ya",
+      "Integrity": "g4IB+YZxluP5ivf1lcoQp1YOwxZ7QELBQWJplKkpXZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\hero.png"
+    },
+    {
+      "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\icon.png",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "Files/Images/icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ospsj9yt0d",
+      "Integrity": "mIjsfYbY/KtUEREyIX2mvQmmfVgvjXwmXBd9y87Wk64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\icon.png"
     },
     {
       "Identity": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Products\\air_conditioner.jpg",
@@ -1964,6 +2006,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/hero.png",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\hero.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "698563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g4IB+YZxluP5ivf1lcoQp1YOwxZ7QELBQWJplKkpXZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Nov 2023 09:14:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g4IB+YZxluP5ivf1lcoQp1YOwxZ7QELBQWJplKkpXZc="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/hero.xf48t6q0ya.png",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\hero.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "698563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g4IB+YZxluP5ivf1lcoQp1YOwxZ7QELBQWJplKkpXZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Nov 2023 09:14:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf48t6q0ya"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Images/hero.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g4IB+YZxluP5ivf1lcoQp1YOwxZ7QELBQWJplKkpXZc="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/icon.ospsj9yt0d.png",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIjsfYbY/KtUEREyIX2mvQmmfVgvjXwmXBd9y87Wk64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Sep 2023 10:16:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ospsj9yt0d"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Images/icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIjsfYbY/KtUEREyIX2mvQmmfVgvjXwmXBd9y87Wk64="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/icon.png",
+      "AssetFile": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\wwwroot\\Files\\Images\\icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIjsfYbY/KtUEREyIX2mvQmmfVgvjXwmXBd9y87Wk64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Sep 2023 10:16:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIjsfYbY/KtUEREyIX2mvQmmfVgvjXwmXBd9y87Wk64="
         }
       ]
     },
